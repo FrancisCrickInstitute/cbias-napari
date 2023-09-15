@@ -1,0 +1,26 @@
+name: cbias_napari_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - aicsimageio>=4.10.0
+  - bioformats_jar>=2020.5.27
+  - napari>=0.4.17
+  - napari-aicsimageio>=0.7.2
+  - numpy>=1.25.0
+  - pyqt>=5.15.7
+  - python>=3.9.16
+  - qt-main>=5.15.8
+  - qtpy>=2.3.1
+  - scikit-image>=0.19.3
+  - scipy>=1.11.1
+  - scyjava>=1.9.0
+  - pip
+  - pip:
+      - apoc>=0.12.0
+      - napari-accelerated-pixel-and-object-classification>=0.12.3
+      - napari-assistant>=0.4.5
+      - napari-skimage-regionprops>=0.10.1
+      - pyclesperanto>=0.6.7
+      - pyclesperanto-prototype>=0.24.1
+      - pyopencl>=2023.1.1
