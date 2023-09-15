@@ -1,4 +1,5 @@
 Useful resources
+* [Conda cheat sheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 * https://jni.github.io/using-python-for-science/intro-to-environments.html
 * https://focalplane.biologists.com/2022/12/08/managing-scientific-python-environments-using-conda-mamba-and-friends/
 * https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html
