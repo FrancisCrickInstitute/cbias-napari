@@ -3,9 +3,10 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - python=3.10
   - aicsimageio>=4.10.0
   - bioformats_jar>=2020.5.27
-  - napari>=0.4.17
+  - napari>=0.4.18
   - napari-aicsimageio>=0.7.2
   - numpy>=1.25.0
   - pyqt>=5.15.7
