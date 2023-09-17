@@ -1,0 +1,9 @@
+name: cbias_basic_napari_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pyqt
+  - napari
+prefix: /Users/jonesma/anaconda3/envs/cbias_basic_napari_env
