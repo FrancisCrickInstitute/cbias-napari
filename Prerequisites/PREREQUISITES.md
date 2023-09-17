@@ -19,4 +19,5 @@ There are installation options for all major operating systems.
 
 ![Downloads for miniconda](images/miniconda_downloads.png)
 
-Now conda should be accessible via the command line, either: `Terminal` on Mac OS and `Anaconda Prompt` on Windows. You can verify a correct installation by typing `conda --version` into your command line application, which should return something like.
+Now conda should be accessible via the command line, either: `Terminal` on Mac OS and `Anaconda Prompt` on Windows. You can verify a correct installation by typing `conda --version` into your command line application, which should return something like this:
+![Conda version check](images/conda_version_check.png)
