@@ -17,7 +17,7 @@ Download the source from GitHub by clicking on the green "Code" button on [this 
 Once this has downloaded, you can unzip the directory to your local filesystem. Alternatively, if you're familiar with git or GitHub, you can clone the repository to your local system.
 
 ## Using the command line
-Assuming you have completed the prerequisites, you should have a terminal application on your computer (either `Terminal` on Mac, or something like `Anaconda Prompt` on Windows). We'll need to use this for setting up the framework for Napari, for adding new plugins and for launching the application. Note that it _is_ in principle possible to [install as a bundled app](https://napari.org/stable/tutorials/fundamentals/installation.html#install-as-a-bundled-app), but it is strongly recommended to install as a python package at the time of this course (November 2023).
+Assuming you have completed the [prerequisites](Prerequisites/PREREQUISITES.md), you should have a terminal application on your computer (either `Terminal` on Mac, or something like `Anaconda Prompt` on Windows). We'll need to use this for setting up the framework for Napari, for adding new plugins and for launching the application. Note that it _is_ in principle possible to [install as a bundled app](https://napari.org/stable/tutorials/fundamentals/installation.html#install-as-a-bundled-app), but it is strongly recommended to install as a python package at the time of this course (November 2023).
 
 ## Creating the conda environment
 To install the example conda environment run this in a terminal. If you don't have conda installed, you can obtain it here with [miniconda](https://docs.conda.io/projects/miniconda/en/latest/index.html).
