@@ -11,8 +11,10 @@ This course can be taken without prior knowledge of programming, although famili
 ### System setup
 This is the important bit! It's crucial that students start the course with a fully working python installation so we can get straight on to the interesting stuff. The most common way of getting set up with python is to install either Anaconda or Miniconda. TODO: SHOULD WE GO STRAIGHT FOR MAMBA?
 
-Here we'll use the example of Miniconda. 
+Here we'll use the example of Miniconda. Installation information is found [here](https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html).
 
 ![Miniconda](images/miniconda.png)
+
+There are installation options for all major operating systems.
 
 ![Downloads for miniconda](images/miniconda_downloads.png)
