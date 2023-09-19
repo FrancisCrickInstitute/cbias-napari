@@ -1,3 +1,5 @@
+Note: This is a work in progress, if you stumble across this please note that the course has not yet been finalised, but feel free to have a look around if anything is useful. 
+
 # Introduction to Napari
 Introduction to Napari training course, run as part of the Crick Bioimage Analysis Symposium 2023
 
